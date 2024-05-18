@@ -55,3 +55,7 @@ The project successfully showcased the strengths of Amazon Kinesis in handling l
 - Mentzer, A. (2016). Joining and enriching streaming data on Amazon Kinesis.
 - Narayanan, R. (2022). Kafka vs. Kinesis: A Deep Dive Comparison.
 - Odmark, J. (2023). Unveiling the limitations of Amazon Kinesis: A comprehensive technical analysis.
+
+## Collaborators
+- Tife Olatunji
+- Sharon Mbaegbu
